@@ -24,7 +24,5 @@ A full-stack web application built with **Spring Boot**, designed for secure and
 - ⚠️ Global exception handling using `@ControllerAdvice`
 - 🔒 Password hashing and secure session management
 
----
 
-## 📁 Project Structure
 
